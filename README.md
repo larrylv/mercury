@@ -13,5 +13,8 @@ It works by using the Twitter Search API to find mentions of "github.com" URLs a
 
 [Mercury][] is a major Roman god, being one of the Dii Consentes within the ancient Roman pantheon. He is the patron god of financial gain, commerce, eloquence (and thus poetry), __messages/communication__ (including divination), travelers, boundaries, luck, trickery and thieves; he is also the guide of souls to the underworld.
 
-
 [Mercury]: http://en.wikipedia.org/wiki/Mercury_(mythology)
+
+## License
+
+This library is released under the MIT License.
