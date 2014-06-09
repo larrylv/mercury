@@ -1,7 +1,7 @@
 // Originally copied from scuttlebutt project.
 // See: https://github.com/benbjohnson/scuttlebutt/blob/master/searcher.go
 
-package scuttlebutt
+package mercury
 
 import (
 	"fmt"
